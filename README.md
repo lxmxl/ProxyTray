@@ -1,4 +1,6 @@
 # Proxy Tray
+改动：更改了更美观的托盘图标
+Update:Changed the tray icons to prefered ones.
 
 A Windows tray app that monitors WinINet proxy settings for LAN (not VPN) and enables quick proxy on/off switch.
 
